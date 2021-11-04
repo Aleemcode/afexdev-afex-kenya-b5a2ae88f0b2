@@ -99,7 +99,7 @@ tr:nth-child(even) {
 	opacity: 0.;
 } */
 
-@media (max-width: 639px) {
+@media (max-width: 767px) {
     .otherfont{
 		color: red;
 		font-size: 16px;
